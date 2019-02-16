@@ -1,0 +1,51 @@
+D:\visual studio project\Timer\Timer\bin\Release\Timer.exe
+D:\visual studio project\Timer\Timer\bin\Release\Timer.pdb
+D:\visual studio project\Timer\Timer\obj\x86\Release\Timer.Mainmenu.resources
+D:\visual studio project\Timer\Timer\obj\x86\Release\Timer.About.resources
+D:\visual studio project\Timer\Timer\obj\x86\Release\Timer.Form3.resources
+D:\visual studio project\Timer\Timer\obj\x86\Release\Timer.Properties.Resources.resources
+D:\visual studio project\Timer\Timer\obj\x86\Release\Timer.csproj.GenerateResource.Cache
+D:\visual studio project\Timer\Timer\obj\x86\Release\Timer.exe
+D:\visual studio project\Timer\Timer\obj\x86\Release\Timer.pdb
+D:\MyBackup\Timer(3)\Timer\obj\x86\Release\Timer.exe
+D:\MyBackup\Timer(3)\Timer\obj\x86\Release\Timer.pdb
+D:\MyBackup\Timer(3)\Timer\bin\Release\Timer.exe
+D:\MyBackup\Timer(3)\Timer\bin\Release\Timer.pdb
+D:\MyBackup\Timer(3)\Timer\obj\x86\Release\ResolveAssemblyReference.cache
+D:\MyBackup\Timer(3)\Timer\obj\x86\Release\Timer.Mainmenu.resources
+D:\MyBackup\Timer(3)\Timer\obj\x86\Release\Timer.About.resources
+D:\MyBackup\Timer(3)\Timer\obj\x86\Release\Timer.Form3.resources
+D:\MyBackup\Timer(3)\Timer\obj\x86\Release\Timer.Properties.Resources.resources
+D:\MyBackup\Timer(3)\Timer\obj\x86\Release\GenerateResource.read.1.tlog
+D:\MyBackup\Timer(3)\Timer\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\Timer-project\Timer\Timer\obj\x86\Release\Timer.exe
+C:\Users\Administrator\Desktop\Timer-project\Timer\Timer\obj\x86\Release\Timer.pdb
+C:\Users\Administrator\Desktop\Timer-project\Timer\Timer\bin\Release\Timer.exe
+C:\Users\Administrator\Desktop\Timer-project\Timer\Timer\bin\Release\Timer.pdb
+C:\Users\Administrator\Desktop\Timer-project\Timer\Timer\obj\x86\Release\Timer.Mainmenu.resources
+C:\Users\Administrator\Desktop\Timer-project\Timer\Timer\obj\x86\Release\Timer.About.resources
+C:\Users\Administrator\Desktop\Timer-project\Timer\Timer\obj\x86\Release\Timer.Form3.resources
+C:\Users\Administrator\Desktop\Timer-project\Timer\Timer\obj\x86\Release\Timer.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Timer-project\Timer\Timer\obj\x86\Release\Timer.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Timer-project\Timer\Timer\obj\x86\Release\Timer.csprojResolveAssemblyReference.cache
+D:\visual studio project\Timer-word\Timer\obj\x86\Release\Timer.exe
+D:\visual studio project\Timer-word\Timer\obj\x86\Release\Timer.pdb
+D:\visual studio project\Timer-word\Timer\bin\Release\Timer.exe
+D:\visual studio project\Timer-word\Timer\bin\Release\Timer.pdb
+D:\visual studio project\Timer-word\Timer\obj\x86\Release\Timer.csprojResolveAssemblyReference.cache
+D:\visual studio project\Timer-word\Timer\obj\x86\Release\Timer.Mainmenu.resources
+D:\visual studio project\Timer-word\Timer\obj\x86\Release\Timer.About.resources
+D:\visual studio project\Timer-word\Timer\obj\x86\Release\Timer.Form3.resources
+D:\visual studio project\Timer-word\Timer\obj\x86\Release\Timer.Properties.Resources.resources
+D:\visual studio project\Timer-word\Timer\obj\x86\Release\Timer.csproj.GenerateResource.Cache
+D:\visual studio project\Timer\Timer\obj\x86\Release\Timer.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Timer\Timer\bin\Release\Timer.exe
+C:\Users\Administrator\Desktop\Timer\Timer\bin\Release\Timer.pdb
+C:\Users\Administrator\Desktop\Timer\Timer\obj\x86\Release\Timer.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Timer\Timer\obj\x86\Release\Timer.Mainmenu.resources
+C:\Users\Administrator\Desktop\Timer\Timer\obj\x86\Release\Timer.About.resources
+C:\Users\Administrator\Desktop\Timer\Timer\obj\x86\Release\Timer.Form3.resources
+C:\Users\Administrator\Desktop\Timer\Timer\obj\x86\Release\Timer.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Timer\Timer\obj\x86\Release\Timer.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Timer\Timer\obj\x86\Release\Timer.exe
+C:\Users\Administrator\Desktop\Timer\Timer\obj\x86\Release\Timer.pdb

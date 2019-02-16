@@ -1,0 +1,54 @@
+c:\users\administrator\documents\visual studio 2010\Projects\Timer\Timer\bin\Debug\Timer.exe
+c:\users\administrator\documents\visual studio 2010\Projects\Timer\Timer\bin\Debug\Timer.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\Timer\Timer\obj\x86\Debug\Timer.Form1.resources
+c:\users\administrator\documents\visual studio 2010\Projects\Timer\Timer\obj\x86\Debug\Timer.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2010\Projects\Timer\Timer\obj\x86\Debug\Timer.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2010\Projects\Timer\Timer\obj\x86\Debug\Timer.exe
+c:\users\administrator\documents\visual studio 2010\Projects\Timer\Timer\obj\x86\Debug\Timer.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Timer\Timer\obj\x86\Debug\Timer.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Timer\Timer\obj\x86\Debug\Timer.Form2.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Timer\Timer\obj\x86\Debug\Timer.Form3.resources
+D:\visual studio project\Timer\Timer\obj\x86\Debug\Timer.exe
+D:\visual studio project\Timer\Timer\obj\x86\Debug\Timer.pdb
+D:\visual studio project\Timer\Timer\bin\Debug\Timer.exe
+D:\visual studio project\Timer\Timer\bin\Debug\Timer.pdb
+D:\visual studio project\Timer\Timer\obj\x86\Debug\Timer.csprojResolveAssemblyReference.cache
+D:\visual studio project\Timer\Timer\obj\x86\Debug\Timer.Form3.resources
+D:\visual studio project\Timer\Timer\obj\x86\Debug\Timer.Properties.Resources.resources
+D:\visual studio project\Timer\Timer\obj\x86\Debug\Timer.csproj.GenerateResource.Cache
+D:\visual studio project\Timer\Timer\obj\x86\Debug\Timer.Mainmenu.resources
+D:\visual studio project\Timer\Timer\obj\x86\Debug\Timer.About.resources
+D:\Timer(3)\Timer\obj\x86\Debug\Timer.exe
+D:\Timer(3)\Timer\obj\x86\Debug\Timer.pdb
+D:\Timer(3)\Timer\bin\Debug\Timer.exe
+D:\Timer(3)\Timer\bin\Debug\Timer.pdb
+D:\Timer(3)\Timer\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Timer(3)\Timer\obj\x86\Debug\Timer.Mainmenu.resources
+D:\Timer(3)\Timer\obj\x86\Debug\Timer.About.resources
+D:\Timer(3)\Timer\obj\x86\Debug\Timer.Form3.resources
+D:\Timer(3)\Timer\obj\x86\Debug\Timer.Properties.Resources.resources
+D:\Timer(3)\Timer\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Timer(3)\Timer\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\MyBackup\Timer(3)\Timer\obj\x86\Debug\Timer.exe
+D:\MyBackup\Timer(3)\Timer\obj\x86\Debug\Timer.pdb
+D:\MyBackup\Timer(3)\Timer\bin\Debug\Timer.exe
+D:\MyBackup\Timer(3)\Timer\bin\Debug\Timer.pdb
+D:\MyBackup\Timer(3)\Timer\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\MyBackup\Timer(3)\Timer\obj\x86\Debug\Timer.Mainmenu.resources
+D:\MyBackup\Timer(3)\Timer\obj\x86\Debug\Timer.About.resources
+D:\MyBackup\Timer(3)\Timer\obj\x86\Debug\Timer.Form3.resources
+D:\MyBackup\Timer(3)\Timer\obj\x86\Debug\Timer.Properties.Resources.resources
+D:\MyBackup\Timer(3)\Timer\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\MyBackup\Timer(3)\Timer\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\Timer\Timer\obj\x86\Debug\Timer.exe
+C:\Users\Administrator\Desktop\Timer\Timer\obj\x86\Debug\Timer.pdb
+F:\Project\VS\Timer\Timer\obj\x86\Debug\Timer.exe
+F:\Project\VS\Timer\Timer\obj\x86\Debug\Timer.pdb
+F:\Project\VS\Timer\Timer\bin\Debug\Timer.exe
+F:\Project\VS\Timer\Timer\bin\Debug\Timer.pdb
+F:\Project\VS\Timer\Timer\obj\x86\Debug\Timer.csprojResolveAssemblyReference.cache
+F:\Project\VS\Timer\Timer\obj\x86\Debug\Timer.Mainmenu.resources
+F:\Project\VS\Timer\Timer\obj\x86\Debug\Timer.About.resources
+F:\Project\VS\Timer\Timer\obj\x86\Debug\Timer.Form3.resources
+F:\Project\VS\Timer\Timer\obj\x86\Debug\Timer.Properties.Resources.resources
+F:\Project\VS\Timer\Timer\obj\x86\Debug\Timer.csproj.GenerateResource.Cache
